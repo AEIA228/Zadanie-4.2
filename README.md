@@ -50,7 +50,7 @@ Windows Defender был выбран из-за того, что он встро�
   - [x] Веб-защита/блокировка вредоносных сайтов
 
 
-![alt text](4.2.png)
+![4 2](https://github.com/user-attachments/assets/edc6ce51-f66f-4e7b-8a3d-2c7692f1442c)
 ![alt text](image.png)
 
 ---
